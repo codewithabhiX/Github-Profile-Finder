@@ -1,0 +1,54 @@
+.container{
+text-align:center;
+}
+
+input{
+height:30px;
+width:300px;
+font-size: 20px;
+}
+
+#box{
+display:flex;
+height:60%;
+width:40%;
+border:2px solid black;
+margin: auto;
+margin-top:50px;
+justify-content:center;
+align-items:center;
+}
+
+#box img{
+height:80%;
+width:40%;
+}
+
+.main{
+display:flex;
+flex-direction:column;
+width:50%;
+height :100%;
+justify-content:center;
+align-items:center;
+justify-content:space-around;
+}
+
+.main h3{
+height :10%;
+}
+
+.main p{
+height :10%;
+}
+
+.main button{
+height :8%;
+width:80%;
+margin:10px;
+}
+
+.main span{
+height :10%;
+
+}
